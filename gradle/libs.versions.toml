@@ -1,5 +1,5 @@
 [versions]
-Atlantic = "3.0.1"
+Atlantic = "3.4.3"
 
 [libraries]
 Atlantic = { module = "io.ktor:ktor-client-core", version.ref = "Atlantic" }
